@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nator26-NT also known as Ntando Thumbu
 - 👀 I’m interested in System development & Artificial intellegence [Data Science And Machine Learning]
-- 🌱 I’m currently learning ystem development & Artificial intellegence [Data Science And Machine Learning]
-- 💞️ I’m looking to collaborate on Web development Idea & Mobile App Development 
+- 🌱 I’m currently learning system development & Artificial intellegence [Data Science And Machine Learning]
+- 💞️ I’m looking to collaborate on  Game development and Artificial Intelligence  
 - 📫 How to reach me On facebook as Ntando Thumbu
 
 <!---
