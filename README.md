@@ -2,7 +2,7 @@
 - 👀 I’m interested in System development & Artificial intellegence [Data Science And Machine Learning]
 - 🌱 I’m currently learning system development & Artificial intellegence [Data Science And Machine Learning]
 - 💞️ I’m looking to collaborate on  Game development and Artificial Intelligence  
-- 📫 How to reach me On facebook as Ntando Thumbu
+- 📫 How to reach me On facebook as Ntando Thumbu/NT Devops
 
 <!---
 Nator26-NT/Nator26-NT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
